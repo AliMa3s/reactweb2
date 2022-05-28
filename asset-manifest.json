@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/reactweb2/static/css/main.ee75da4d.css",
+    "main.js": "/reactweb2/static/js/main.22f08b68.js",
+    "static/media/stage.png": "/reactweb2/static/media/stage.58c4ee195b23a48e89ec.png",
+    "static/media/profile2.png": "/reactweb2/static/media/profile2.ed14b9a8ed4f4f137dea.png",
+    "static/media/profile1.png": "/reactweb2/static/media/profile1.a1a11f5455f35af6763d.png",
+    "static/media/resume.pdf": "/reactweb2/static/media/resume.1c31a2598a4128f7745b.pdf",
+    "static/media/web.png": "/reactweb2/static/media/web.513615577569756c4119.png",
+    "static/media/wave.png": "/reactweb2/static/media/wave.768b78f2d291255e3c93.png",
+    "static/media/gproef.png": "/reactweb2/static/media/gproef.17d8666fd1a188805e0e.png",
+    "static/media/profile4.png": "/reactweb2/static/media/profile4.66929c17632cfbc217c3.png",
+    "static/media/hoc.png": "/reactweb2/static/media/hoc.8e53a87b244e6fad8e78.png",
+    "static/media/profile3.jpg": "/reactweb2/static/media/profile3.ee3791c72d07cfff3eaa.jpg",
+    "static/media/glassesimoji.png": "/reactweb2/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/boy.png": "/reactweb2/static/media/boy.1ea053596f9d8ba2d61b.png",
+    "static/media/thumbup.png": "/reactweb2/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/reactweb2/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/reactweb2/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/Avanade.png": "/reactweb2/static/media/Avanade.525112281684dbb832ad.png",
+    "static/media/Vector2.png": "/reactweb2/static/media/Vector2.3258133b71c01ad820a3.png",
+    "static/media/crown.png": "/reactweb2/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/glasses.png": "/reactweb2/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/cvo.png": "/reactweb2/static/media/cvo.2815106e318dad77bbbb.png",
+    "index.html": "/reactweb2/index.html",
+    "main.ee75da4d.css.map": "/reactweb2/static/css/main.ee75da4d.css.map",
+    "main.22f08b68.js.map": "/reactweb2/static/js/main.22f08b68.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee75da4d.css",
+    "static/js/main.22f08b68.js"
+  ]
+}
